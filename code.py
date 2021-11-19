@@ -1,6 +1,4 @@
-# SPDX-FileCopyrightText: 2020 Kattni Rembor, written for Adafruit Industries
-#
-# SPDX-License-Identifier: Unlicense
+# for adafruit magtag - nylar #
 import time
 import board
 import neopixel
